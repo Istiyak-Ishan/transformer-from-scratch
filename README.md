@@ -16,7 +16,7 @@ Covers math, NumPy attention, PyTorch model, and GPT-style text generation.
 
 ```id="y6n0k1"
 transformer-from-scratch/
-├── notebook/transformer_notebook.ipynb
+├── transformer_notebook.ipynb
 ├── data/train.csv
 ├── data/validation.csv
 ├── data/test.csv
@@ -35,7 +35,7 @@ jupyter notebook
 Open:
 
 ```id="9uxm8d"
-notebook/transformer_notebook.ipynb
+transformer_notebook.ipynb
 ```
 
 ---
